@@ -1,1 +1,1 @@
-gmodule gogo-rdtsc
+module gogo-rdtsc
