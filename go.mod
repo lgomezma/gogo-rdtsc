@@ -1,1 +1,1 @@
-module gogo-rdtsc
+module github.com/lgomezma/gogo-rdtsc
