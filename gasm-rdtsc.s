@@ -5,7 +5,7 @@ TEXT ·StartTime(SB),NOSPLIT, $0-8
     CPUID
     RDTSC
     SHLQ $32, DX
-    ADD DX, AX
+    ADDQ DX, AX
     MOVQ AX, ret+0(FP)
     RET
 
